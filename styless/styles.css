@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+
+
+body{
+
+    background-image:url(/styless/images/desktop-232473.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+}
